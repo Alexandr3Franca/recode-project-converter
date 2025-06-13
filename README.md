@@ -16,7 +16,8 @@ Converte algumas medidas.
 * Desenvolvido em Linguagem HTML, CSS E JS.
 
 ## Organização do Projeto
-* **Desenvolvedores**: * ALEXANDRE SANTOS SILVA FRANÇA.
+* **Desenvolvedores**: * ALEXANDRE SANTOS SILVA FRANÇA. responsavel por - JS, slides.
+* MARCELO DOS SANTOS SANTOS. CSS/HTML, relatorio.
 
 ## Fluxo de Trabalho 
 1.  O responsável cria/gerencia o repositório no GitHub .
